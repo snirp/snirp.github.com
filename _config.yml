@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Roy Prins programming blog
-tagline: Personal blog concerning my toilings as an aspiring programmer
+title : Roy Prins' programming blog
+tagline: My toilings as an aspiring programmer
 author :
   name : Roy Prins
   email : prinsroy@gmail.com
